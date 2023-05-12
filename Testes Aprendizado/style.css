@@ -1,0 +1,9 @@
+body {background-color: black;}
+p {color:white; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;text-justify: auto; text-align: center; }
+h3 {color: chartreuse; text-align: center;}
+h1{color: chartreuse; /*Cor do Texto*/
+text-align: center;} 
+.TextoPrincipal {color: white;} /* o Ponto . Serve para chamar uma classe */
+#Titulo {color: lawngreen;}/* A hashtag # serve para chamar um Id */
+img{width: 800px;height: auto; text-align: center;} 
+div{text-align: center;}
