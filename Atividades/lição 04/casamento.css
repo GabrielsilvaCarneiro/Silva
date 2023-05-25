@@ -1,5 +1,5 @@
 body{background-image: url(https://c4.wallpaperflare.com/wallpaper/949/555/749/abstract-huawei-lights-neon-hd-wallpaper-thumb.jpg); 
-    background-size: cover;
+    background-size: contain ;
 }
 
 
@@ -51,14 +51,14 @@ html {
       -webkit-flex-direction: row;
       -ms-flex-direction: row;
       flex-direction: row;
-      height: 7rem;
+      height: 8rem;
       padding: 0 15px;
       position: fixed;
       -webkit-justify-content: space-between;
       -ms-flex-pack: justify;
       justify-content: space-between;
       top: 0;
-      width: 100%
+      width: 2500px 
   }
   
   .site-ElegantModern-NameInitialsMonogramLogo-Copia.png {
@@ -67,3 +67,4 @@ html {
       font-size: 3rem;
  
   }
+  h2{color: white;}
